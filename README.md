@@ -1,3 +1,4 @@
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 # OnionCat -- An Anonymous VPN-Adapter
 
 OnionCat is a VPN-adapter which allows to connect two or more computers or
